@@ -1,0 +1,2 @@
+# Lists the raw links to the scripts that have been approved by the SME process
+https://raw.githubusercontent.com/nccgroup/nmap-nse-vulnerability-scripts/master/pjl-info-config.nse
