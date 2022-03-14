@@ -1,1 +1,0 @@
-https://github.com/nccgroup/nmap-nse-vulnerability-scripts/blob/0a710405c96870c4e7a2b78e04bb5438d7fa5dfd/smtp-vuln-cve2020-28017-through-28026-21nails.nse
